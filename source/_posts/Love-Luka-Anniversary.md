@@ -73,7 +73,7 @@ dear luka:
 
 有你真好
 
-> （PS：文章开头的音乐取自塞尔达救出公主的背景音乐，希望你喜欢）
+> （PS：文章开头的音乐取自林克救出公主的背景音乐，希望你喜欢）
 
 <img src="/img/yahongyeah.jpeg" style="width: 60%;margin: 1.5rem auto;display: block;box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18), 0 4px 15px 0 rgba(0,0,0,0.15) !important;border-radius: 3px;image-orientation:initial"/>
 
